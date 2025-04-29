@@ -9,3 +9,4 @@ aplikasi Cheatsheet Linux Dasar dan Sederhana <br>
 ## Storyboard
 ## Mockup
 ## UI Design 
+![Image](https://github.com/user-attachments/assets/0663342f-d9ad-4231-b271-79e55f2417fd)
