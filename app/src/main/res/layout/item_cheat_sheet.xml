@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="6dp"
+    android:layout_marginBottom="12dp"
+    android:backgroundTint="@color/purple">
+
+    <TextView
+        android:id="@+id/cheatTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Title"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:padding="30dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:fontFamily="monospace"/>
+</androidx.cardview.widget.CardView>

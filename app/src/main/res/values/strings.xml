@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">clinux</string>
+    <string name="clinux" />
+    <string name="logo" />
+    <string name="settings" />
+    <string name="searchbar" />
+    <string name="back" />
+    <string name="text" />
+    <string name="exit" />
+    <string name="logout" />
+    <string name="versi" />
+    <string name="notepad" />
+    <string name="pad" />
+    <string name="plus" />
+    <string name="edit" />
+    <string name="line" />
+    <string name="delete" />
+</resources>

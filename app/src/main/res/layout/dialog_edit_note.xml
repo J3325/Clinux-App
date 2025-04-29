@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/darkpurple">
+
+    <EditText
+        android:id="@+id/editTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Judul"
+        android:textColorHint="#cccccc"
+        android:textColor="@android:color/white"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Isi Catatan"
+        android:minLines="5"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:textColorHint="#cccccc"
+        android:textColor="@android:color/white"
+        android:padding="16dp"
+        android:textSize="16sp"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>
